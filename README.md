@@ -1,4 +1,4 @@
-## Hi 👋, I'm Taofeek Wahab
+## Hi 👋, I'm Taofeek
 
 ### Senior Software Engineer | Innovator | Team Leader
 
@@ -9,9 +9,6 @@ With 10+ years of experience, I build scalable, high-impact software solutions a
 - **Frameworks**: Angular, React, Laravel, SpringBoot
 - **Mobile**: Android(Native), Flutter
 - **Tools**: Git, Docker, AWS
-
-### Public Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wahabtaofeeqo&show_icons=true&theme=radical)
 
 ### Connect
 - [LinkedIn](https://linkedin.com/in/wahabtaofeeqo)
