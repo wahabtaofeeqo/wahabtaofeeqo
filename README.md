@@ -11,9 +11,9 @@ With 10+ years of experience, I build scalable, high-impact software solutions a
 - **Tools**: Git, Docker, AWS
 
 ### Connect
-- [LinkedIn](https://linkedin.com/in/wahabtaofeeqo)
 - [Twitter](https://twitter.com/wahabtaofeeqo)
-- [Personal Website](https://wahabtaofeeqo.com)
+- [LinkedIn](https://linkedin.com/in/wahabtaofeeqo)
+- [Portfolio](https://wahabtaofeeqo.com)
 
 ### Mail
 Feel free to [mail me](mailto:taofeekolamilekan218.com)!
