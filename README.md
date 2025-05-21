@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer | Innovator | Team Leader
 
-With 10+ years of experience, I build scalable, high-impact software solutions across desktop, web, and mobile platforms. Welcome to my Github profile.  
+With over a decade of experience, I build scalable, high-impact software solutions across desktop, web, and mobile platforms. Welcome to my GitHub profile.
 
 ### Skills
 - **Languages**: Java, JavaScript, PHP, Kotlin, TypeScript
