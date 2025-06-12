@@ -3,10 +3,9 @@
 I specialize in building scalable and secure applications using **Java, PHP, Kotlin, and JavaScript**, along with frameworks like **Spring Boot, Laravel, Angular, React, Vue.js**, and **Flutter**.
 
 Over the past 7+ years, I've developed and deployed:
-- Microservices and REST APIs with Spring Boot
-- Fullstack SaaS platforms with Angular & Laravel
+- REST APIs and Backend systems
+- Fullstack applications
 - Cloud-native apps with Docker, GitHub Actions & AWS
-- Backend systems with distributed architecture
 
 🧠 I’m passionate about:
 - Writing clean, maintainable code
@@ -27,7 +26,7 @@ Over the past 7+ years, I've developed and deployed:
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/wahabtaofeeqo)
-- 📬 Email: [mail me](mailto:taofeekolamilekan218.com)!
+- 📬 Email: [mail me](mailto:taofeekolamilekan218.com)
 
 _Always open to exciting remote opportunities and impactful collaborations!_
 
