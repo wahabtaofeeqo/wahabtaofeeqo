@@ -7,7 +7,7 @@ Over the past 7+ years, I've developed and deployed:
 - Fullstack applications
 - Cloud-native apps with Docker, GitHub Actions & AWS
 
-🧠 I’m passionate about:
+I’m passionate about:
 - Writing clean, maintainable code
 - Mentoring developers and sharing knowledge
 - Solving real-world problems through software
