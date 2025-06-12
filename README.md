@@ -1,34 +1,33 @@
-## Hi 👋, I'm Taofeek
+# 👋 Hi, I'm Taofeek – Senior Software Engineer
 
-### Senior Software Engineer | Innovator | Team Leader
+I specialize in building scalable and secure applications using **Java, PHP, Kotlin, and JavaScript**, along with frameworks like **Spring Boot, Laravel, Angular, React, Vue.js**, and **Flutter**.
 
-With over a decade of experience, I build scalable, high-impact software solutions across desktop, web, and mobile platforms. Welcome to my GitHub profile.
+Over the past 7+ years, I've developed and deployed:
+- Microservices and REST APIs with Spring Boot
+- Fullstack SaaS platforms with Angular & Laravel
+- Cloud-native apps with Docker, GitHub Actions & AWS
+- Backend systems with distributed architecture
 
-### Skills
-- **Languages**: Java, JavaScript, PHP, Kotlin, TypeScript
-- **Frameworks**: Angular, React, Laravel, SpringBoot, Nodejs
-- **Mobile**: Android(Native), Flutter
-- **Tools**: Git, Docker, AWS
+🧠 I’m passionate about:
+- Writing clean, maintainable code
+- Mentoring developers and sharing knowledge
+- Solving real-world problems through software
 
-### Connect
-- [Twitter](https://twitter.com/wahabtaofeeqo)
-- [LinkedIn](https://linkedin.com/in/wahabtaofeeqo)
-- [Portfolio](https://wahabtaofeeqo.com)
 
-### Mail
-Feel free to [mail me](mailto:taofeekolamilekan218.com)!
+### Tech Stack
 
-<!--
-**wahabtaofeeqo/wahabtaofeeqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages:** Java, PHP, JavaScript, Kotlin  
+**Backend:** Spring Boot, Laravel, Node.js  
+**Frontend:** Angular, React, Vue.js  
+**Mobile:** Android (Native), Flutter  
+**DevOps:** Docker, GitHub Actions, AWS, Nginx  
+**Database:** MySQL, PostgreSQL, MongoDB  
+**Other:** Microservices, CI/CD, Git, RESTful APIs
 
-Here are some ideas to get you started:
+### 📫 Let's Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 [LinkedIn](https://linkedin.com/in/wahabtaofeeqo)
+- 📬 Email: [mail me](mailto:taofeekolamilekan218.com)!
+
+_Always open to exciting remote opportunities and impactful collaborations!_
+
