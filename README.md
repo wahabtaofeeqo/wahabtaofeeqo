@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Taofeek – Senior Software Engineer
 
-I specialize in building scalable and secure applications using **Java, PHP, Kotlin, and JavaScript**, along with frameworks like **Spring Boot, Laravel, CodeIgniter, Angular, React
-Over the past 7+ years, I've developed and deployed:
+I specialize in building scalable and secure applications using **Java, PHP, and JavaScript**, along with frameworks like **Spring Boot, Laravel, CodeIgniter, Angular, React
+Over the past 9+ years, I've developed and deployed:
 - REST APIs and Backend systems
 - Fullstack applications
 - Cloud-native apps with Docker, GitHub Actions & AWS
